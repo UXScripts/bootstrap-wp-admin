@@ -23,6 +23,14 @@ At this initial commit, I've been able to implement the following styles:
 7. labels (drafts, add new)
 8. buttons
 
+##Browser Compatibility
+
+Currently has only been tested on:
+
+1. Safari 5 (OS X Lion)
+2. Chrome 19 (OS X Lion)
+3. FireFox 4 (OS X Lion)
+
 ##Contribute!
 
 Everyone is welcome to contribute, as there are plenty more elements to be laid out. The goal here is to not only theme the wp admin, but to also "enhance" the experience as well. We're not looking for drastic changes in the layout (mostly because that would require a lot of hacking), but for subtle niceties. For example, I've done the following:
