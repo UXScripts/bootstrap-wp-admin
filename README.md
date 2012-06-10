@@ -2,6 +2,8 @@
 
 A simple plugin made to transform the WordPress admin GUI/UX into pure beauty by applying Twitter Bootstrap styles and JS.
 
+![Bootstrap for WordPress admin Preview](http://nickdimatteo.com/bootstrap-preview.png "Preview")
+
 ## Quick start
 
 * Clone the git repo into your WordPress Plugins folder - `git clone git://github.com/ndimatteo/bootstrap-wp-admin.git` - or [download it](https://github.com/ndimatteo/bootstrap-wp-admin/zipball/master)
